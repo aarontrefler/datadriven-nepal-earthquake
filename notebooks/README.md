@@ -52,4 +52,5 @@ A better way to approach the problem mentioned in the previous experiment (uncer
 
 ### TODO
 
+* Experiment with different values for the smoothing parameter (I only tried m=1).
 * I'm working on a simple DNN model that I might try to ensemble with the XGBoost model.
