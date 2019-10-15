@@ -1,2 +1,4 @@
-*.csv
-.ipynb_checkpoints
+**.csv
+**.ipynb_checkpoints
+**.DS_Store
+**text.gz
